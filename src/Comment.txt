@@ -1,0 +1,9 @@
+// Browser Router | add it to main component (App) | link - route 
+// <link> -> to   | <a> -> href
+// useEffect : take data from API not sendig data to API
+// Signup : I need to send data to API so I don't use useEffect, use useState
+// when status code is 200 that's mean Data send successfully
+// when using useState flag : the changes done last thing after leaving function not done with the order of code lines
+// so using let Flag to make changes done with the order of code lines
+
+Recap : index.js App.js Home.js SingUp.js
